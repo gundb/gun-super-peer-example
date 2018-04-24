@@ -1,0 +1,26 @@
+{
+  "name": "gun-super-peer-example",
+  "version": "0.1.0",
+  "description": "Example GUN super-peer (server) that can be installed on Heroku.",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "hhttps://github.com/robertheessels/gun-super-peer-example"
+  },
+  "keywords": [
+    "gun",
+    "heroku",
+    "node"
+  ],
+  "license": "MIT"
+}
