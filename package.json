@@ -10,9 +10,9 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "gun": "^0.9.993"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "hhttps://github.com/robertheessels/gun-super-peer-example"
