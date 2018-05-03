@@ -15,7 +15,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "hhttps://github.com/robertheessels/gun-super-peer-example"
+    "url": "hhttps://github.com/gundb/gun-super-peer-example"
   },
   "keywords": [
     "gun",
