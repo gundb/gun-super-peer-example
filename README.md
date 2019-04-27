@@ -1,7 +1,9 @@
-# gun-super-peer-example
+# THIS EXAMPLE IS DEPRECATED
 
-Example GUN super-peer (server) that can be installed on Heroku.
+Please use the 1-click-deploy located at:
 
-It is used in the `Hello World` example here: [https://gun.eco/docs/Hello-World](https://gun.eco/docs/Hello-World)
+https://github.com/amark/gun#deploy
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+Or the example server at
+
+https://github.com/amark/gun/blob/master/examples/http.js
